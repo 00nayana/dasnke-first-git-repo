@@ -1,1 +1,2 @@
-git ! hi nayana
+Hi this is nayana 
+for git repo training
